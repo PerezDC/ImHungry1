@@ -1,2 +1,2 @@
-# ImHungry
-This is my repository for my web application I'm Hungry
+# PROJECT: ImHungry
+This is my repository for my web application I'm Hungry for Cloud App Developer Cohort 8.

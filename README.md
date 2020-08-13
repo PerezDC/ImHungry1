@@ -13,3 +13,16 @@ This web application was created throughout the Microsoft Software and Systems A
 * Users will have the option of adjusting their search radius to provide nearby food establishments.
 * Users will receive a random nearby food establishment and decide to *keep* or *try again*.
 * If a User decides to *keep* the location they are given, they will be given further information regarding that establishment.
+
+---
+
+## Task List
+- [X] Formal Investigation
+- [X] Application Presentation
+- [X] Database Conceptual Design
+- [X] Database Creation (SQL Scripts)
+- [X] UI/UX (Wire-frame sketches)
+- [ ] Identify User Stories
+- [ ] Identify Use Cases
+- [ ] Use-Case Diagram (UML)
+- [ ] Software Requirements Table

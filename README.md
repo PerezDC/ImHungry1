@@ -18,14 +18,18 @@ This web application was created throughout the Microsoft Software and Systems A
 
 ## Task List
 - [X] Formal Investigation
-- [X] Application Presentation
-- [X] Database Conceptual Design | [Download Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Presentation.pptx)
+- [X] Application Presentation | [Download Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Presentation.pptx)
+- [X] Database Conceptual Design (ERD) |
 - [X] Database Creation (SQL Scripts) | [See Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungryDatabase.sql)
 - [X] UI/UX (Wire-frame sketches)
 - [ ] Identify User Stories
 - [ ] Identify Use Cases
 - [ ] Use-Case Diagram (UML)
 - [ ] Software Requirements Table
+
+---
+## Entity Relationship Diagram
+![ImHungryERD](https://github.com/PerezDC/ImHungry/blob/master/I'm%20Hungry%20ERD.png)
 
 ---
 ## Wire-frames

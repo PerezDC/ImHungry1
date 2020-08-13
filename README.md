@@ -29,6 +29,8 @@ This web application was created throughout the Microsoft Software and Systems A
 
 ---
 ## Wire-frames
-![Wireframe1](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%201.PNG) | ![Wireframe2](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%202.PNG)
-![Wireframe3](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%203.PNG) | ![Wireframe4](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%204.PNG)
+![Wireframe1 50%](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%201.PNG)
+![Wireframe2](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%202.PNG)
+![Wireframe3](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%203.PNG)
+![Wireframe4](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%204.PNG)
 

@@ -5,6 +5,9 @@ This web application was created throughout the Microsoft Software and Systems A
 ---
 
 ## I'm Hungry Description
-The purpose of I'm Hungry is to connect open-minded individuals with local food establishments.
-This is done by connecting users with APIs, such as Yelp!'s REST API, through an easy to use web-based application.
-Users can search using two options: geolocation input from their device, or manual zipcode input.
+* The purpose of I'm Hungry is to connect open-minded individuals with local food establishments.
+* This is done by connecting users with APIs, such as Yelp!'s REST API, through an easy to use web-based application.
+* Users can search using two options: 
+  * geolocation input from their device
+  * manual zipcode input.
+* Users will have the option of adjusting their search radius to provide nearby food establishments.

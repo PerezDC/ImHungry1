@@ -11,3 +11,5 @@ This web application was created throughout the Microsoft Software and Systems A
   * geolocation input from their device
   * manual zipcode input.
 * Users will have the option of adjusting their search radius to provide nearby food establishments.
+* Users will receive a random nearby food establishment and decide to *keep* or *try again*.
+* If a User decides to *keep* the location they are given, they will be given further information regarding that establishment.

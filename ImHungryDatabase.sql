@@ -10,8 +10,6 @@ This is step 5 to my web application project with the below requirements.
 3. populate preliminary data for implementation and test.
 ===================================================================================*/
 
-USE master;
-DROP DATABASE IF EXISTS ImHungry;
 CREATE DATABASE ImHungry;
 USE ImHungry;
 

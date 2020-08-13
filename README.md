@@ -19,8 +19,8 @@ This web application was created throughout the Microsoft Software and Systems A
 ## Task List
 - [X] Formal Investigation
 - [X] Application Presentation
-- [X] Database Conceptual Design [Download Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Presentation.pptx)
-- [X] Database Creation (SQL Scripts) [See Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungryDatabase.sql)
+- [X] Database Conceptual Design | [Download Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Presentation.pptx)
+- [X] Database Creation (SQL Scripts) | [See Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungryDatabase.sql)
 - [X] UI/UX (Wire-frame sketches)
 - [ ] Identify User Stories
 - [ ] Identify Use Cases

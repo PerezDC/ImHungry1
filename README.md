@@ -64,3 +64,7 @@ ID | Use Case
 2.10|Given user action, when they select ‘Directions’ button, reroute user to directions application of their choice.
 
 ---
+## Use-Case Diagram (UML)
+![UML-initial](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Use%20Case%20Diagram.PNG)
+
+---

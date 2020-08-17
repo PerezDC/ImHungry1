@@ -38,6 +38,7 @@ This web application was created throughout the Microsoft Software and Systems A
 ![Wireframe3](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%203.PNG)
 ![Wireframe4](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%204.PNG)
 
+---
 ## User Stories
 ID | User Story
 ---|-----------
@@ -46,3 +47,20 @@ ID | User Story
 1.3|As a user, I want to search for restaurants using a typed in zip code so that I do not have to share my device’s current location.
 1.4|As a user, I want to adjust my search radius so that I can find a nearby restaurant within a specific distance.
 1.5|As a user, I want to save my recently visited restaurants so that I can visit again in the future.
+
+---
+##  Use Cases
+ID | Use Case
+---|---------
+2.1|Given user visits home page, when they click ‘Log In’, show login form.
+2.2|Given user visits home page, when they click ‘Continue as Guest’ button, direct to search page.
+2.3|Given user visits home page, when they click ‘Not a member?’ link, show user registration form.
+2.4|Given user action, when they login, display welcome back message with their last visited restaurant and ‘like’ or ‘dislike’ button.
+2.5|Given user action, when they click the ‘Use my location’ button, devices geolocation is received from device if allowed.
+2.6|Given user action, when they click the ‘Search by ZIP’ button, display Input Zip Code form.
+2.7|Given user action, when they click the ‘Settings’ button, display user settings list.
+2.8|Given user action, when they select a search option, display results page.
+2.9|Given user action, when they select ‘Spin Again’ button, display new random result from search query.
+2.10|Given user action, when they select ‘Directions’ button, reroute user to directions application of their choice.
+
+---

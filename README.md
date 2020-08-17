@@ -41,7 +41,7 @@ This web application was created throughout the Microsoft Software and Systems A
 ---
 ## User Stories
 ID | User Story
----|-----------
+---|:----------
 1.1|As a user, I want to browse local restaurants so that I can experience restaurants I typically will not visit.
 1.2|As a user, I want to search for restaurants using my device’s location so that I do not have to manually type in a zip code.
 1.3|As a user, I want to search for restaurants using a typed in zip code so that I do not have to share my device’s current location.
@@ -51,7 +51,7 @@ ID | User Story
 ---
 ##  Use Cases
 ID | Use Case
----|---------
+---|:--------
 2.1|Given user visits home page, when they click ‘Log In’, show login form.
 2.2|Given user visits home page, when they click ‘Continue as Guest’ button, direct to search page.
 2.3|Given user visits home page, when they click ‘Not a member?’ link, show user registration form.
@@ -70,7 +70,7 @@ ID | Use Case
 ---
 ## Requirements List
 ID | Requirement
----|------------
+---|:-----------
 3.1.|System shall allow registered users to log in.
 3.1.1.|System shall allow registered users to input username and password.
 3.1.2.|System shall validate login credentials in database.

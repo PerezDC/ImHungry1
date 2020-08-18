@@ -1,12 +1,6 @@
 /*-----------------------------------------------------------------------------------
 This database is to serve as the database for my application, I'm Hungry. As more
 entities are identified, this database will be adjusted.
--------------------------------------------------------------------------------------
-1. create your database,
-
-2. create your tables (including primary keys and relations consistent with your ERD)
-
-3. populate preliminary data for implementation and test.
 ===================================================================================*/
 
 CREATE DATABASE ImHungry;

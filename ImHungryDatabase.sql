@@ -1,7 +1,6 @@
 /*-----------------------------------------------------------------------------------
 This database is to serve as the database for my application, I'm Hungry. As more
-entities are identified, this database will be adjust.
-This is step 5 to my web application project with the below requirements.
+entities are identified, this database will be adjusted.
 -------------------------------------------------------------------------------------
 1. create your database,
 
@@ -101,7 +100,7 @@ CREATE TABLE VisitedRestaurant(
 		( RestID )
 );
 
-INSERT RegUser (FirstName, LastName, SearchRadius)
+INSERT RegUser (FirstName, LastName, SearchRadius) -- SAMPLE DATA
 VALUES
 	('David', 'Perez', 5),
 	('Hilda', 'Perez', 10),
@@ -110,7 +109,7 @@ VALUES
 	('Brian', 'Smith', 10),
 	('Jayme', 'Wright', 15);
 
-INSERT RestaurantCategories (CategoryName)
+INSERT RestaurantCategories (CategoryName) -- SAMPLE DATA (https://blog.yelp.com/2018/01/yelp_category_list#section8)
 VALUES
 	( 'Afghan' ),
 	( 'African' ),
@@ -270,7 +269,7 @@ VALUES
 	( 'Waffles' ),
 	( 'Wraps' );
 
-INSERT PrefCategories (UserID, CategoryID)
+INSERT PrefCategories (UserID, CategoryID) -- SAMPLE DATA
 VALUES
 	(1, 21),
 	(1, 46),
@@ -308,7 +307,7 @@ VALUES
 	(6, 20),
 	(6, 46);
 
-INSERT Restaurants (CategoryID, RestName, RestAddress, RestCity, RestZipcode, RestCountry, RestPhone)
+INSERT Restaurants (CategoryID, RestName, RestAddress, RestCity, RestZipcode, RestCountry, RestPhone) -- SAMPLE DATA
 VALUES
 (8, 'The Goat & Vine', '41923 2nd St, Ste 103', 'Temecula', '92590', 'USA', '(951) 695-5600'),
 (41, 'Small Barn', '28535 Old Town Front St', 'Temecula', '92590', 'USA', '(951) 225-2820'),
@@ -316,7 +315,7 @@ VALUES
 (13, 'PUBlic House', '41971 Main St', 'Temecula', '92590', 'USA', '(951) 491-1772'),
 (11, 'Gourmet Italia', '27499 Ynez Rd', 'Temecula', '92591', 'USA', '(951) 676-9194');
 
-
+/*
 SELECT *
 FROM RegUser
 
@@ -328,3 +327,4 @@ FROM PrefCategories
 
 SELECT *
 FROM Restaurants
+*/

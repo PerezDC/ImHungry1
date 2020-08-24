@@ -50,10 +50,10 @@ This web application was created throughout the Microsoft Software and Systems A
 ID | User Story
 ---|:----------
 1|As a user, I want to browse local restaurants so that I can experience restaurants I typically will not visit.
-1|As a user, I want to search for restaurants using my device’s location so that I do not have to manually type in a zip code.
-1|As a user, I want to search for restaurants using a typed in zip code so that I do not have to share my device’s current location.
-1|As a user, I want to adjust my search radius so that I can find a nearby restaurant within a specific distance.
-1|As a user, I want to save my recently visited restaurants so that I can visit again in the future.
+2|As a user, I want to search for restaurants using my device’s location so that I do not have to manually type in a zip code.
+3|As a user, I want to search for restaurants using a typed in zip code so that I do not have to share my device’s current location.
+4|As a user, I want to adjust my search radius so that I can find a nearby restaurant within a specific distance.
+5|As a user, I want to save my recently visited restaurants so that I can visit again in the future.
 
 ---
 ##  Use Cases

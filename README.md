@@ -29,7 +29,7 @@ This web application was created throughout the Microsoft Software and Systems A
 - [X] [UI/UX (Wire-frame sketches)](#Wire-frames)
 - [X] [User Stories](#User-Stories)
 - [X] [Use Cases](Use-Cases)
-- [X] [Use-Case Diagram](#Use-Case-Diagram) (UML)
+- [X] [Use-Case Diagram](#Use-Case-Diagram-(UML)) (UML)
 - [X] [Requirements List](#Requirements-List)
 - [X] [Test Table](#Test-Table)
 

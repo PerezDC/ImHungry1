@@ -102,28 +102,29 @@ ID | Requirement | Test Method | Test ID
 8.1.|System shall present a random result to user. | Demonstration | T19
 8.2.|System shall allow user to fetch a new random result if button is clicked. | Demonstration | T20
 8.3.|System shall save last result as visited if application is closed or left idle. | Inspection | T21
+
 ---
 ## Test Table
 Test ID | Req ID | Test Procedure | Current Status | Time Stamp
 :-------|:-------|:---------------|:---------------|:----------
-T1 | 1 | Check Log In button. Input form should be displayed. | In Development | N/A
-T2 | 1.1 | Check if Register Now link displays input form. | In Development | N/A
-T3 | 1.2, 3.2 | Check input form constraints, username and email address in correct formats. | In Development | N/A
-T4 | 1.3 | Check if logged in user or newly registered user is forwarded to Welcome Page. | In Development | N/A
-T5 | 2, 2.1 | Check Continue as Guest button, users should be forwarded to Search Page. | In Development | N/A
-T6 | 3 | Check if new user form populated user database. | In Development | N/A
-T7 | 3.1, 3.2 | Check new user input form constraints, inputted data should adhere to formatting. | In Development | N/A
-T8 | 3.3 | Check if newly registered users are forwarded to Welcome Page with intro walk-through. | In Development | N/A
-T9 | 4, 1.3, 8.3 | Revisiting users should be able to rate their last visited establishment. | In Development | N/A
-T10 | 5, 5.1 | Check if Use My Location button fetches device's geolocation. | In Development | N/A
-T11 | 5, 5.2 | Check if input form displays if Search By Zip button is clicked. | In Development | N/A
-T12 | 5.2.1 | Check if the input form only accepts int value of 5 (i.e. 92592). | In Development | N/A
-T13 | 5.3 | Users should be forwarded to the Results Page | In Development | N/A
-T14 | 6 | Users should be able to adjust search radius from .5 miles to 25 miles using a slider. | In Development | N/A
-T15 | 7 | Check if query is properly formatted for Yelp!'s REST API. | In Development | N/A
-T16 | 7.1 | Check if search results are inputted into the user's database. | In Development | N/A
-T17 | 7.2 | Check if user's preferences are applied to query. | In Development | N/A
-T18 | 8 | Check if search results are displayed to the user. | In Development | N/A
-T19 | 8.1 | Check to see if the provided result was random. | In Development | N/A
-T20 | 8.2 | Users should be able to receive another random result if Try Again button is clicked. | In Development | N/A
-T21 | 8.3 | Registered users will have their last result saved to their database. | In Development | N/A
+T1 | 1 | Check Log In button. Input form should be displayed. | Not Tested | N/A
+T2 | 1.1 | Check if Register Now link displays input form. | Not Tested | N/A
+T3 | 1.2, 3.2 | Check input form constraints, username and email address in correct formats. | Not Tested | N/A
+T4 | 1.3 | Check if logged in user or newly registered user is forwarded to Welcome Page. | Not Tested | N/A
+T5 | 2, 2.1 | Check Continue as Guest button, users should be forwarded to Search Page. | Not Tested | N/A
+T6 | 3 | Check if new user form populated user database. | Not Tested | N/A
+T7 | 3.1, 3.2 | Check new user input form constraints, inputted data should adhere to formatting. | Not Tested | N/A
+T8 | 3.3 | Check if newly registered users are forwarded to Welcome Page with intro walk-through. | Not Tested | N/A
+T9 | 4, 1.3, 8.3 | Revisiting users should be able to rate their last visited establishment. | Not Tested | N/A
+T10 | 5, 5.1 | Check if Use My Location button fetches device's geolocation. | Not Tested | N/A
+T11 | 5, 5.2 | Check if input form displays if Search By Zip button is clicked. | Not Tested | N/A
+T12 | 5.2.1 | Check if the input form only accepts int value of 5 (i.e. 92592). | Not Tested | N/A
+T13 | 5.3 | Users should be forwarded to the Results Page | Not Tested | N/A
+T14 | 6 | Users should be able to adjust search radius from .5 miles to 25 miles using a slider. | Not Tested | N/A
+T15 | 7 | Check if query is properly formatted for Yelp!'s REST API. | Not Tested | N/A
+T16 | 7.1 | Check if search results are inputted into the user's database. | Not Tested | N/A
+T17 | 7.2 | Check if user's preferences are applied to query. | Not Tested | N/A
+T18 | 8 | Check if search results are displayed to the user. | Not Tested | N/A
+T19 | 8.1 | Check to see if the provided result was random. | Not Tested | N/A
+T20 | 8.2 | Users should be able to receive another random result if Try Again button is clicked. | Not Tested | N/A
+T21 | 8.3 | Registered users will have their last result saved to their database. | Not Tested | N/A

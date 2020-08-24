@@ -22,7 +22,7 @@ This web application was created throughout the Microsoft Software and Systems A
 
 ---
 
-## Table of Contents / Task List
+## Table of Contents
 - [X] Application Presentation | [Download Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Presentation.pptx)
 - [X] [Database Conceptual Design](#Entity-Relationship-Diagram) (ERD)
 - [X] Database Creation (SQL Scripts) | [See Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungryDatabase.sql)
@@ -32,6 +32,7 @@ This web application was created throughout the Microsoft Software and Systems A
 - [X] [Use-Case Diagram](#Use-Case-Diagram)
 - [X] [Requirements List](#Requirements-List)
 - [X] [Test Table](#Test-Table)
+- [] Prototype
 
 ---
 ## Entity Relationship Diagram

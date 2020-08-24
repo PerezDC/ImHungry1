@@ -29,7 +29,7 @@ This web application was created throughout the Microsoft Software and Systems A
 - [X] [UI/UX (Wire-frame sketches)](#Wire-frames)
 - [X] [User Stories](#User-Stories)
 - [X] [Use Cases](Use-Cases)
-- [X] [Use-Case Diagram](#Use-Case-Diagram-(UML)) (UML)
+- [X] [Use-Case Diagram](#Use-Case-Diagram)
 - [X] [Requirements List](#Requirements-List)
 - [X] [Test Table](#Test-Table)
 
@@ -70,7 +70,7 @@ ID | Use Case
 2.10|Given user action, when they select ‘Directions’ button, reroute user to directions application of their choice.
 
 ---
-## Use-Case Diagram (UML)
+## Use-Case Diagram
 ![UML-initial](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Use%20Case%20Diagram.PNG)
 
 ---

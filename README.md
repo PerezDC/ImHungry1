@@ -1,3 +1,4 @@
+![ImHungryIcon](https://github.com/PerezDC/ImHungry/blob/master/I'm%20Hungry.png)
 # PROJECT: ImHungry
 This is my repository for a web application I will be developing, *I'm Hungry*! 
 This web application was created throughout the Microsoft Software and Systems Academy, Cloud App Developer Program, Cohort 8.
@@ -16,7 +17,7 @@ This web application was created throughout the Microsoft Software and Systems A
 
 ---
 
-## Task List
+## Table of Contents / Task List
 - [X] Formal Investigation
 - [X] Application Presentation | [Download Here](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Presentation.pptx)
 - [X] Database Conceptual Design (ERD)

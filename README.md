@@ -32,7 +32,7 @@ This web application was created throughout the Microsoft Software and Systems A
 - [X] [Use-Case Diagram](#Use-Case-Diagram)
 - [X] [Requirements List](#Requirements-List)
 - [X] [Test Table](#Test-Table)
-- [ ] Prototype
+- [ ] [Prototype](#Prototype)
 
 ---
 ## Entity Relationship Diagram

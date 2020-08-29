@@ -32,7 +32,7 @@ This web application was created throughout the Microsoft Software and Systems A
 - [X] [Use-Case Diagram](#Use-Case-Diagram)
 - [X] [Requirements List](#Requirements-List)
 - [X] [Test Table](#Test-Table)
-- [ ] [Prototype](#Prototype)
+- [X] [Prototype](#Prototype) | [Can be accessed here](https://xd.adobe.com/view/e74971a0-d1ba-491c-9517-1b553e0db684-b21a/)
 
 ---
 ## Entity Relationship Diagram
@@ -139,4 +139,4 @@ T21 | 8.3 | Registered users will have their last result saved to their database
 ---
 ## Prototype
 [Back to Table of Contents ↑](#Table-of-contents)
-This section is currently under development. Current prototype is being developed using Adobe XD.
+Current prototype can be accessed by clicking [here](https://xd.adobe.com/view/e74971a0-d1ba-491c-9517-1b553e0db684-b21a/).

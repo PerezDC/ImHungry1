@@ -128,3 +128,7 @@ T18 | 8 | Check if search results are displayed to the user. | Not Tested | N/A
 T19 | 8.1 | Check to see if the provided result was random. | Not Tested | N/A
 T20 | 8.2 | Users should be able to receive another random result if Try Again button is clicked. | Not Tested | N/A
 T21 | 8.3 | Registered users will have their last result saved to their database. | Not Tested | N/A
+
+---
+## Prototype
+This section is currently under development. Current prototype is being developed using Adobe XD.

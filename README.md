@@ -36,17 +36,20 @@ This web application was created throughout the Microsoft Software and Systems A
 
 ---
 ## Entity Relationship Diagram
+[Back to Table of Contents ↑](#Table-of-contents)
 ![ImHungryERD](https://github.com/PerezDC/ImHungry/blob/master/I'm%20Hungry%20ERD.png)
 
 ---
-## Wire-frames [Back to top ↑](#Table-of-contents)
+## Wire-frames
+[Back to top ↑](#Table-of-contents)
 ![Wireframe1](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%201.PNG)
 ![Wireframe2](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%202.PNG)
 ![Wireframe3](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%203.PNG)
 ![Wireframe4](https://github.com/PerezDC/ImHungry/blob/master/Wireframe%204.PNG)
 
 ---
-## User Stories [Back to top ↑](#Table-of-contents)
+## User Stories
+[Back to Table of Contents ↑](#Table-of-contents)
 ID | User Story
 ---|:----------
 1|As a user, I want to browse local restaurants so that I can experience restaurants I typically will not visit.
@@ -56,7 +59,8 @@ ID | User Story
 5|As a user, I want to save my recently visited restaurants so that I can visit again in the future.
 
 ---
-##  Use Cases [Back to top ↑](#Table-of-contents)
+##  Use Cases
+[Back to Table of Contents ↑](#Table-of-contents)
 ID | Use Case
 ---|:--------
 1|Given user visits home page, when they click ‘Log In’, show login form.
@@ -71,11 +75,13 @@ ID | Use Case
 10|Given user action, when they select ‘Directions’ button, reroute user to directions application of their choice.
 
 ---
-## Use-Case Diagram [Back to top ↑](#Table-of-contents)
+## Use-Case Diagram
+[Back to Table of Contents ↑](#Table-of-contents)
 ![UML-initial](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Use%20Case%20Diagram.PNG)
 
 ---
-## Requirements List [Back to top ↑](#Table-of-contents)
+## Requirements List
+[Back to Table of Contents ↑](#Table-of-contents)
 ID | Requirement | Test Method | Test ID
 ---|:------------|:------------|:-------
 1.|System shall allow registered users to log in. | Inpection | T1
@@ -104,7 +110,8 @@ ID | Requirement | Test Method | Test ID
 8.3.|System shall save last result as visited if application is closed or left idle. | Inspection | T21
 
 ---
-## Test Table [Back to top ↑](#Table-of-contents)
+## Test Table
+[Back to Table of Contents ↑](#Table-of-contents)
 Test ID | Req ID | Test Procedure | Current Status | Time Stamp
 :-------|:-------|:---------------|:---------------|:----------
 T1 | 1 | Check Log In button. Input form should be displayed. | Not Tested | N/A
@@ -130,5 +137,6 @@ T20 | 8.2 | Users should be able to receive another random result if Try Again b
 T21 | 8.3 | Registered users will have their last result saved to their database. | Not Tested | N/A
 
 ---
-## Prototype [Back to top ↑](#Table-of-contents)
+## Prototype
+[Back to Table of Contents ↑](#Table-of-contents)
 This section is currently under development. Current prototype is being developed using Adobe XD.

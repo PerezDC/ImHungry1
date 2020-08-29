@@ -37,7 +37,7 @@ This web application was created throughout the Microsoft Software and Systems A
 ---
 ## Entity Relationship Diagram
 [Back to Table of Contents ↑](#Table-of-contents)
-![ImHungryERD](https://github.com/PerezDC/ImHungry/blob/master/ImageFiles/ImHungry%20Use%20Case%20Diagram.png)
+![ImHungryERD](https://github.com/PerezDC/ImHungry/blob/master/I'm%20Hungry%20ERD.png)
 
 ---
 ## Wire-frames

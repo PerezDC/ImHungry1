@@ -10,5 +10,11 @@ This README file contains information regarding the prototype. The initial proto
 
 ---
 ## Initial Mockup
-##### Rendered as GIF using Adobe Premiere Pro.
 ![PrototypeGIF](https://github.com/PerezDC/ImHungry/blob/master/Prototype/ImageFiles/ImHungryPrototypeToGif.gif)
+###### Rendered as GIF using Adobe Premiere Pro.
+Note: Pages are still needed for the following:
+- [ ] Reset Password
+- [ ] About
+- [ ] Settings
+
+---

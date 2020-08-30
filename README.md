@@ -139,5 +139,6 @@ T21 | 8.3 | Registered users will have their last result saved to their database
 ---
 ## Prototype
 [Back to Table of Contents ↑](#Table-of-contents)
-Live prototype can be accessed [here](https://xd.adobe.com/view/e74971a0-d1ba-491c-9517-1b553e0db684-b21a/).
+#### Live prototype can be accessed [here](https://xd.adobe.com/view/e74971a0-d1ba-491c-9517-1b553e0db684-b21a/).
+
 ![PrototypeGIF](https://github.com/PerezDC/ImHungry/blob/master/Prototype/ImageFiles/ImHungryPrototypeToGif.gif)

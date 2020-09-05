@@ -77,7 +77,7 @@ ID | Use Case
 ---
 ## Use-Case Diagram
 [Back to Table of Contents ↑](#Table-of-contents)
-![UML-initial](https://github.com/PerezDC/ImHungry/blob/master/ImHungry%20Use%20Case%20Diagram.PNG)
+![UML-V2](https://github.com/PerezDC/ImHungry/blob/master/ImageFiles/ImHungryUseCaseDiagram.jpg)
 
 ---
 ## Requirements List

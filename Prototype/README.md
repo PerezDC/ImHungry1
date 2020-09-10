@@ -4,7 +4,7 @@ This README file contains information regarding the prototype. The initial proto
 
 ---
 ## Table of Contents
-- [X] [Initial Mockup](#Initial-Mockup) | [View Live Mockup](https://xd.adobe.com/view/e74971a0-d1ba-491c-9517-1b553e0db684-b21a/)
+- [X] [Initial Mockup](#Initial-Mockup) | [View Live Mockup](https://xd.adobe.com/view/7212bf40-0c9e-433a-ae18-7a7315ff4667-2741/)
 - [ ] Adobe XD handoff to Visual Studio
 - [ ] Functionality implementation
 

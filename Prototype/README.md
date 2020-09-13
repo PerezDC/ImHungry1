@@ -5,7 +5,7 @@ This README file contains information regarding the prototype. The initial proto
 ---
 ## Table of Contents
 - [X] [Initial Mockup](#Initial-Mockup) | [View Live Mockup](https://xd.adobe.com/view/7212bf40-0c9e-433a-ae18-7a7315ff4667-2741/)
-- [ ] Adobe XD handoff to Visual Studio
+- [ ] Adobe XD Prototype to ASP.NET
 - [ ] Functionality implementation
 
 ---

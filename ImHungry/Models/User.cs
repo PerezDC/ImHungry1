@@ -5,7 +5,7 @@ using System.Web;
 
 namespace ImHungry.Models
 {
-    public class Users
+    public class User
     {
         public int UserId { get; set; }
 
@@ -14,5 +14,7 @@ namespace ImHungry.Models
         public string EmailAddress { get; set; }
 
         public string Password { get; set; }
+
+        public string LastVisitedRestaurant { get; set; }
     }
 }

@@ -13,7 +13,7 @@ namespace ImHungry.Models
 
         public int PriceRank { get; set; }
 
-        public TimeSpan HoursOperation { get; set; }
+        public int HoursOperation { get; set; }
 
         public string RestAddress { get; set; }
     }
